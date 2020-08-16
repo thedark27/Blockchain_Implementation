@@ -1,0 +1,9 @@
+Block NUmber : 1
+Name of Owner : Subhan Reza
+Name of Buyer : Barun sinha
+Adhar NUmber of Owner : 2345 3546 5463 3465
+Adhar Number of Buyer : 1283 2839 6737 2732
+Mobile Number of Owner : 74737382873
+Mobile number of Buyer : 37347347347
+Price of land : 120,0000
+Area of land : 40 x 50 sq feet
